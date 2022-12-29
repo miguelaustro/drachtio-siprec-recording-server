@@ -41,7 +41,7 @@
     "tape": "^4.9.1"
   },
   "dependencies": {
-    "config": "^1.30.0",
+    "config": "^3.3.8",
     "debug": "^3.1.0",
     "drachtio-srf": "^4.4.31",
     "pino": "^4.13.0",
